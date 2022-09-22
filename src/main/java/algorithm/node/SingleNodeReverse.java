@@ -1,8 +1,6 @@
 package algorithm.node;
 
 
-import com.sun.tools.doclets.internal.toolkit.AnnotationTypeOptionalMemberWriter;
-
 /**
  * 单向链表倒转
  */
